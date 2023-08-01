@@ -141,6 +141,7 @@ form {
     width: 90%;
     max-width: 328px;
     height: 88px;
+    font-size: 0.8rem;
   }
   .input {
     width: 278px;
